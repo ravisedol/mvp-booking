@@ -165,10 +165,10 @@ PORT=5000
 
 🧑‍💻 Frontend:
 
-- [] Add loading /error UI states
-- [] Add admin UI to view/manage cars & bookings
-- [] Use TypeScript for type safety 
-- [] Add tests with React Testing Library
+- [ ] Add loading /error UI states
+- [ ] Add admin UI to view/manage cars & bookings
+- [ ] Use TypeScript for type safety 
+- [ ] Add tests with React Testing Library
 
 
 
